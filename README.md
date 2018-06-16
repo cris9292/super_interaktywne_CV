@@ -19,11 +19,11 @@
 
 # Umiejętności : 
 
-| Umiejętności       | Znajomość           | Cool  |
-| ------------- |:-------------:| -----:|
-| ISTQB      | dobry | $1600 |
-| Robot Framework      | średni      |   $12 |
-| Selenium | średni      |    $1 |
+| Umiejętności       | Znajomość           
+| ------------- |:-------------:| 
+| ISTQB      | dobry |
+| Robot Framework      | średni   |   
+| Selenium | średni      
  
 
 
