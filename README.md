@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
 
+# Poznaj mnie !
+
+# Poznałem narzędzia :
+- Selenium
+- Robot Framework
+- Appium
+- Jira
+- Jenkins
+
+# Ukończtyłem studia :
+[I'm an inline-style link](https://www.wsb.pl/wroclaw/studenci/studia-podyplomowe/kierunki/tester-oprogramowania-dla-aplikacji-mobilnych-i-serwerowych)
+
 You can use the [editor on GitHub](https://github.com/cris9292/super_interaktywne_CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
