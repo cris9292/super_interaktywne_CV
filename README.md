@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 # Poznaj mnie !
-![alt text](https://drive.google.com/open?id=1HXN2U1W-TD8ioIIDe7mRn0y08-MFtV-6)
+[logo](https://drive.google.com/open?id=1HXN2U1W-TD8ioIIDe7mRn0y08-MFtV-6)
 
 
 # Poznałem narzędzia :
@@ -10,6 +10,7 @@
 - Appium
 - Jira
 - Jenkins
+- Python
 
 # Ukończtyłem studia : [Oto moje studia testerskie](https://www.wsb.pl/wroclaw/studenci/studia-podyplomowe/kierunki/tester-oprogramowania-dla-aplikacji-mobilnych-i-serwerowych)
 
