@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 # Poznaj mnie !
-![moje zdjęcie](https://github.com/cris9292/super_interaktywne_CV/blob/master/IMG_5993a.jpg "moje foto")
+![moje zdjęcie](https://github.com/cris9292/super_interaktywne_CV/blob/master/IMG_5993a.jpg)
 
 
 
