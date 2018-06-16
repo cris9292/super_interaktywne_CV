@@ -2,7 +2,7 @@
 
 # Poznaj mnie !
 ![moje zdjęcie](https://drive.google.com/open?id=1HXN2U1W-TD8ioIIDe7mRn0y08-MFtV-6 "moje foto")
-<img src="https://drive.google.com/open?id=1HXN2U1W-TD8ioIIDe7mRn0y08-MFtV-6" alt="Tu podaj tekst alternatywny" />
+<img src="Pobrane/IMG_5993a.JPG" alt="Moje zdjęcie" />
 
 
 
