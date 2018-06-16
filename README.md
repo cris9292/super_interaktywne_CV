@@ -1,6 +1,8 @@
 ## Welcome to GitHub Pages
 
 # Poznaj mnie !
+![alt text](https://drive.google.com/open?id=1HXN2U1W-TD8ioIIDe7mRn0y08-MFtV-6)
+
 
 # Poznałem narzędzia :
 - Selenium
@@ -10,6 +12,10 @@
 - Jenkins
 
 # Ukończtyłem studia : [Oto moje studia testerskie](https://www.wsb.pl/wroclaw/studenci/studia-podyplomowe/kierunki/tester-oprogramowania-dla-aplikacji-mobilnych-i-serwerowych)
+
+# Scieżka kariery :
+- od 15.05.2018 do obecnie jako *Verification Engineer* [Oto moja praca ](https://nokiawroclaw.pl/)
+
 
 You can use the [editor on GitHub](https://github.com/cris9292/super_interaktywne_CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
