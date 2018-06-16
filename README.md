@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 # Poznaj mnie !
-[logo](https://drive.google.com/open?id=1HXN2U1W-TD8ioIIDe7mRn0y08-MFtV-6)
+![moje zdjęcie](https://drive.google.com/open?id=1HXN2U1W-TD8ioIIDe7mRn0y08-MFtV-6)
+
 
 
 # Poznałem narzędzia :
