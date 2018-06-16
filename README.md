@@ -2,7 +2,6 @@
 
 # Poznaj mnie !
 ![moje zdjęcie](https://drive.google.com/open?id=1HXN2U1W-TD8ioIIDe7mRn0y08-MFtV-6 "moje foto")
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 
