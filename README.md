@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 # Poznaj mnie !
-![moje zdjęcie](https://github.com/cris9292/super_interaktywne_CV/blob/master/IMG_5993a.jpg)
+[logo](https://github.com/cris9292/super_interaktywne_CV/blob/master/IMG_5993a.jpg)
 
 
 
@@ -21,7 +21,7 @@
 
 # Umiejętności : 
 
-| Umiejętności       | Znajomość           
+| Umiejętności       | Znajomość |          
 | ------------- |:-------------:| 
 | ISTQB      | dobry |
 | Robot Framework      | średni   |   
