@@ -17,6 +17,15 @@
 # Scieżka kariery :
 - od 15.05.2018 do obecnie jako *Verification Engineer* [Oto moja praca ](https://nokiawroclaw.pl/)
 
+# Umiejętności : 
+
+| Umiejętności       | Znajomość           | Cool  |
+| ------------- |:-------------:| -----:|
+| ISTQB      | dobry | $1600 |
+| Robot Framework      | średni      |   $12 |
+| Selenium | średni      |    $1 |
+ 
+
 
 You can use the [editor on GitHub](https://github.com/cris9292/super_interaktywne_CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
